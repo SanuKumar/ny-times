@@ -1,6 +1,9 @@
 ### To run the application follow the below steps:
-git clone `URL`
+
+git clone `https://github.com/SanuKumar/ny-times.git`
+
 npm install  
+
 npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
